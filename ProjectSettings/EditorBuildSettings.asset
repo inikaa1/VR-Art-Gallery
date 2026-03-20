@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EZPZ b) Examples/a) Standalone Example Scenes/01 Item Cycling.unity
     guid: 7ecc1225d74d4454aad820312b981b7c
+  - enabled: 1
+    path: Assets/Gallery.unity
+    guid: 7437744bf04e1447cbd2c54de19dc9d4
+  - enabled: 1
+    path: Assets/StarryNight.unity
+    guid: 7945517ae22db4750a584cb33722dfa4
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
